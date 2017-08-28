@@ -2,7 +2,7 @@
 Atividades relacionadas a disciplina de Programação 3.
 
 
-|-------------------------------------| Private | Default | Protected | Public |
+|                                     | Private | Default | Protected | Public |
 |-------------------------------------|---------|:--------| :---------|-------:|
 | Mesma Classe                        |   Sim   |   Sim   |    Sim    |   Sim  |
 | Mesmo Pacote                        |   Não   |   Sim   |    Sim    |   Sim  |
