@@ -1,2 +1,2 @@
 # Facisa-P3
-Atividades relacionadas a disciplina Programação 3.
+Atividades relacionadas a disciplina de Programação 3.
