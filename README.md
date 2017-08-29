@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________
 
-### Atividade 3 - Padrão de projeto singleton e connection pool
+### Atividade III - Padrão de projeto singleton e connection pool
 
 * Singleton
 
@@ -31,5 +31,11 @@ ________________________________________________________________________________
 
     Um connection pool significaria “piscina de conexões” em português. Basicamente, é uma camada que fica entre o cliente de banco de dados, que faz as conexões com o banco, e o próprio banco. Em aplicações Java, a ideia dessa camada intermediária é que o cliente possa criar conexões com o banco usando o connection pool quase da mesma forma que criaria usando JDBC diretamente, de modo que fica transparente para ele como a conexão é retornada.
 
-
+### JavaDoc das classes
+  
+  * Visibilidade
+  
+  
+  
+  * ExemploSingleton
 
