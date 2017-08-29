@@ -1,10 +1,6 @@
 # Facisa-P3
 Atividades relacionadas a disciplina de Programação 3.
 
-##Unidade I
-
-###Atividade I - Visibilidade de pacotes
-
     |                                     | Private | Default | Protected | Public |
     |-------------------------------------|---------|:--------| :---------|-------:|
     | Mesma Classe                        |   Sim   |   Sim   |    Sim    |   Sim  |
