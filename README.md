@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Atividade II - Problema do diamante
 
-   > O problema diamante ocorre quando se tenta fazer múltiplas heranças, ou seja, ele o impede de estender dois objetos ao mesmo tempo, pois por acaso ele encontrasse em uma classe herdada de dois métodos herdados de classes diferentes com o mesmo nome ele não saberia como se comportar.
+>  O problema diamante ocorre quando se tenta fazer múltiplas heranças, ou seja, ele o impede de estender dois objetos ao mesmo tempo, pois por acaso ele encontrasse em uma classe herdada de dois métodos herdados de classes diferentes com o mesmo nome ele não saberia como se comportar.
 
 ________________________________________________________________________________________________________________________________________
 
